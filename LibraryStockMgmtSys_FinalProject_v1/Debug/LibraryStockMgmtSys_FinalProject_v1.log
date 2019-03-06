@@ -1,0 +1,3 @@
+﻿  LibStockMgmSys_Imp.cpp
+c:\p45\librarystockmgmtsys_finalproject_v1\librarystockmgmtsys_finalproject_v1\libstockmgmsys_imp.cpp(252): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  LibraryStockMgmtSys_FinalProject_v1.vcxproj -> C:\P45\LibraryStockMgmtSys_FinalProject_v1\Debug\LibraryStockMgmtSys_FinalProject_v1.exe

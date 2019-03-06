@@ -1,0 +1,10 @@
+104|14-1004-104|Joan|Bowling|Boliwar Twist|6|7|2015|20.5|
+102|12-1002-102|Stephen|Koeng|Boliwar Twist|13|8|2009|123|
+109|19-1009-109|Stephen|Dickeinz|C Plus Minus and Others|0|10|2014|20.5|
+103|13-1003-103|Charles|Bowling|For Whom the Whistle Sounds|23|7|2010|20.5|
+105|15-1005-105|Petro|Dickeinz|Henry Petter|19|9|2013|82|
+101|11-1001-101|Petro|Koeng|Henry Petter|17|5|2016|20.5|
+106|16-1006-106|Charles|Hedingway|The Old Dude and the Moon|5|0|2009|164|
+108|18-1008-108|Petro|Hedingway|The Old Dude and the Moon|24|10|2008|143.5|
+107|17-1007-107|Charles|Tolstoy|The Old Dude and the Moon|14|10|2015|164|
+110|20-1010-110|Stephen|Koeng|The Shinning|26|4|2011|61.5|

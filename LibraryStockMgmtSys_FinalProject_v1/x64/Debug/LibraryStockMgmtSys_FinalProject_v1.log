@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (LibraryStockMgmtSys_FinalProject_v1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  LibStockMgmSys_App.cpp
+  LibraryStockMgmtSys_FinalProject_v1.vcxproj -> C:\P45\LibraryStockMgmtSys_FinalProject_v1.9\x64\Debug\LibraryStockMgmtSys_FinalProject_v2.exe

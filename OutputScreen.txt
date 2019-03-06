@@ -1,0 +1,225 @@
+                LaSalle College Library Stock Management System
+                project by Alexey Zapromyotov. Ver 1.6 Fall2018
+
+                Part 1: Creating a late binding array with the books..
+
+        Input the max number of books you want to enter to the system: 5
+
+        -----------------------------------------------------
+                Please choose activity:
+                0. AUTO-Preload the list of books (Random names, ids, titles)
+                1. Add new book(s)
+                2. Search a book by ISBN
+                3. Search a book by Title
+                4. Show all books from the library
+                5. Sort books by title and author (sort by title only)
+                6. Sort books by price (descending)
+                7. Copy the oldest book (year 2014 and less)
+                8. Show old books (y 2014 and less)
+                9. Exit application.
+
+        Please select a menu option:    0
+
+        Selected item: 0
+                Please choose activity:
+                0. AUTO-Preload the list of books (Random names, ids, titles)
+                1. Add new book(s)
+                2. Search a book by ISBN
+                3. Search a book by Title
+                4. Show all books from the library
+                5. Sort books by title and author (sort by title only)
+                6. Sort books by price (descending)
+                7. Copy the oldest book (year 2014 and less)
+                8. Show old books (y 2014 and less)
+                9. Exit application.
+
+        Please select a menu option:    4
+
+        Selected item: 4
+
+         ========== Output: ============
+
+        ------------------------------------------------------------------------------------------
+        Book id:                101 ;    ISBN: 11-1001-101 ;    Published: 17-5-2016 ;  Price: 20.5
+        Book Title:             Henry Petter
+        Book Author:            Petro, Koeng
+        ------------------------------------------------------------------------------------------
+        Book id:                102 ;    ISBN: 12-1002-102 ;    Published: 13-8-2009 ;  Price: 123
+        Book Title:             Boliwar Twist
+        Book Author:            Stephen, Koeng
+        ------------------------------------------------------------------------------------------
+        Book id:                103 ;    ISBN: 13-1003-103 ;    Published: 23-7-2010 ;  Price: 20.5
+        Book Title:             For Whom the Whistle Sounds
+        Book Author:            Charles, Bowling
+        ------------------------------------------------------------------------------------------
+        Book id:                104 ;    ISBN: 14-1004-104 ;    Published: 6-8-2014 ;   Price: 184.5
+        Book Title:             Boliwar Twist
+        Book Author:            Stephen, Koeng
+        ------------------------------------------------------------------------------------------
+        Book id:                105 ;    ISBN: 15-1005-105 ;    Published: 15-1-2009 ;  Price: 20.5
+        Book Title:             For Whom the Whistle Sounds
+        Book Author:            Charles, Bowling
+
+        Press any key to continue...Press any key to continue . . .
+
+                Please choose activity:
+                0. AUTO-Preload the list of books (Random names, ids, titles)
+                1. Add new book(s)
+                2. Search a book by ISBN
+                3. Search a book by Title
+                4. Show all books from the library
+                5. Sort books by title and author (sort by title only)
+                6. Sort books by price (descending)
+                7. Copy the oldest book (year 2014 and less)
+                8. Show old books (y 2014 and less)
+                9. Exit application.
+
+        Please select a menu option:    3
+
+        Selected item: 3
+        Please enter the book title: For Whom the Whistle Sounds
+
+        -------    Book item found  ------------
+        Book id:        103              ISBN: 13-1003-103
+        Book Title:     For Whom the Whistle Sounds
+        Book Author:    Charles, Bowling
+        Published (DD-MM-YY):   23-7-2010                Book price: 20.5
+
+        -------    Book item found  ------------
+        Book id:        105              ISBN: 15-1005-105
+        Book Title:     For Whom the Whistle Sounds
+        Book Author:    Charles, Bowling
+        Published (DD-MM-YY):   15-1-2009                Book price: 20.5
+
+        ----------------------<->------------------------
+        Found books: 2
+
+        Press any key to continue...Press any key to continue . . .
+
+                Please choose activity:
+                0. AUTO-Preload the list of books (Random names, ids, titles)
+                1. Add new book(s)
+                2. Search a book by ISBN
+                3. Search a book by Title
+                4. Show all books from the library
+                5. Sort books by title and author (sort by title only)
+                6. Sort books by price (descending)
+                7. Copy the oldest book (year 2014 and less)
+                8. Show old books (y 2014 and less)
+                9. Exit application.
+
+        Please select a menu option:    5
+
+        Selected item: 5
+
+        Press any key to continue...Press any key to continue . . .
+
+                Please choose activity:
+                0. AUTO-Preload the list of books (Random names, ids, titles)
+                1. Add new book(s)
+                2. Search a book by ISBN
+                3. Search a book by Title
+                4. Show all books from the library
+                5. Sort books by title and author (sort by title only)
+                6. Sort books by price (descending)
+                7. Copy the oldest book (year 2014 and less)
+                8. Show old books (y 2014 and less)
+                9. Exit application.
+
+        Please select a menu option:    4
+
+        Selected item: 4
+
+         ========== Output: ============
+
+        ------------------------------------------------------------------------------------------
+        Book id:                102 ;    ISBN: 12-1002-102 ;    Published: 13-8-2009 ;  Price: 123
+        Book Title:             Boliwar Twist
+        Book Author:            Stephen, Koeng
+        ------------------------------------------------------------------------------------------
+        Book id:                104 ;    ISBN: 14-1004-104 ;    Published: 6-8-2014 ;   Price: 184.5
+        Book Title:             Boliwar Twist
+        Book Author:            Stephen, Koeng
+        ------------------------------------------------------------------------------------------
+        Book id:                103 ;    ISBN: 13-1003-103 ;    Published: 23-7-2010 ;  Price: 20.5
+        Book Title:             For Whom the Whistle Sounds
+        Book Author:            Charles, Bowling
+        ------------------------------------------------------------------------------------------
+        Book id:                105 ;    ISBN: 15-1005-105 ;    Published: 15-1-2009 ;  Price: 20.5
+        Book Title:             For Whom the Whistle Sounds
+        Book Author:            Charles, Bowling
+        ------------------------------------------------------------------------------------------
+        Book id:                101 ;    ISBN: 11-1001-101 ;    Published: 17-5-2016 ;  Price: 20.5
+        Book Title:             Henry Petter
+        Book Author:            Petro, Koeng
+
+        Press any key to continue...Press any key to continue . . .
+
+                Please choose activity:
+                0. AUTO-Preload the list of books (Random names, ids, titles)
+                1. Add new book(s)
+                2. Search a book by ISBN
+                3. Search a book by Title
+                4. Show all books from the library
+                5. Sort books by title and author (sort by title only)
+                6. Sort books by price (descending)
+                7. Copy the oldest book (year 2014 and less)
+                8. Show old books (y 2014 and less)
+                9. Exit application.
+
+        Please select a menu option:    7
+
+        Selected item: 7
+
+        Found 3 books older than 2014
+
+        Press any key to continue...Press any key to continue . . .
+
+                Please choose activity:
+                0. AUTO-Preload the list of books (Random names, ids, titles)
+                1. Add new book(s)
+                2. Search a book by ISBN
+                3. Search a book by Title
+                4. Show all books from the library
+                5. Sort books by title and author (sort by title only)
+                6. Sort books by price (descending)
+                7. Copy the oldest book (year 2014 and less)
+                8. Show old books (y 2014 and less)
+                9. Exit application.
+
+        Please select a menu option:    8
+
+        Selected item: 8
+        ------------------------------------------------------------------------------------------
+        Book id:                102 ;    ISBN: 12-1002-102 ;    Published: 13-8-2009 ;  Price: 123
+        Book Title:             Boliwar Twist
+        Book Author:            Stephen, Koeng
+        ------------------------------------------------------------------------------------------
+        Book id:                103 ;    ISBN: 13-1003-103 ;    Published: 23-7-2010 ;  Price: 20.5
+        Book Title:             For Whom the Whistle Sounds
+        Book Author:            Charles, Bowling
+        ------------------------------------------------------------------------------------------
+        Book id:                105 ;    ISBN: 15-1005-105 ;    Published: 15-1-2009 ;  Price: 20.5
+        Book Title:             For Whom the Whistle Sounds
+        Book Author:            Charles, Bowling
+
+        Press any key to continue...Press any key to continue . . .
+
+                Please choose activity:
+                0. AUTO-Preload the list of books (Random names, ids, titles)
+                1. Add new book(s)
+                2. Search a book by ISBN
+                3. Search a book by Title
+                4. Show all books from the library
+                5. Sort books by title and author (sort by title only)
+                6. Sort books by price (descending)
+                7. Copy the oldest book (year 2014 and less)
+                8. Show old books (y 2014 and less)
+                9. Exit application.
+
+        Please select a menu option:    9
+
+        Selected item: 9
+        Exitting application...
+         =========== END OF PROGRAM ===========
+        Press any key to continue . . .
